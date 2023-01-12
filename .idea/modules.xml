@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/attornatus-api/attornatus-api.iml" filepath="$PROJECT_DIR$/attornatus-api/attornatus-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/teste-attornatus.iml" filepath="$PROJECT_DIR$/.idea/teste-attornatus.iml" />
+    </modules>
+  </component>
+</project>
