@@ -10,7 +10,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="attornatus-api" target="1.5" />
+      <module name="attornatus-api" target="17" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="attornatus-api" options="-parameters" />
+    </option>
   </component>
 </project>
